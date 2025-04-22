@@ -1,8 +1,8 @@
 # idecarlos_honeybee_import
 
-Code for De Carlos et al. (2025) TODO_add_pre-print_link study:
+Code for de Carlos et al. (2025) TODO_add_pre-print_link study:
 
-    @article{DeCarlos2025,
+    @article{deCarlos2025,
       title = {Modelling the impacts of imports of non-native honey bees into the native \textit{{A}pis mellifera mellifera} population in {I}reland},
       author = {de Carlos, Irene and Strachan, Laura and McCormack, Grace and Gorjanc, Gregor and Obsteter, Jana},
       journal = {BioRxiv},
