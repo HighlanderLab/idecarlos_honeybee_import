@@ -14,4 +14,5 @@ The key files are:
   * `Finalsimulation.R` code for scenario 1 and 2: Percentage of imports and Genetic correlation between traits in the two environments
   * `Spatialsimulation.R` code for scenario 3: Point of entry
   * `Stopimports.R` code for stopping importation after 20 years of simulation: Halt of imports
-  * 
+  * `Eddie` file containing the code for running the scenarios on Eddie and analysing the results
+  * `FounderGenomes_ThreePop_16chr.RData` file containing the founder genomes of A. m. mellifera and A. m. carinca
